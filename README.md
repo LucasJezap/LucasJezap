@@ -15,10 +15,10 @@
 
 <h2>:notebook: Facts that might interest you </h2>
 
-  * :mortar_board: Current university status: **Finishing Computer Science Engineer Degree**
-  * :money_with_wings: I’m currently working at **IBM**
+  * :trophy: Current university status: **Finishing Computer Science Engineer Degree**
+  * :office: I’m currently working at **IBM**
   * :computer: Position: **Software Developer** 
-  * :watch: Work experience: **Doing my best since *01.2021***
-  * :chart: Future goals: **Become an expert in Go**
+  * :hourglass: Work experience: **Doing my best since *01.2021***
+  * :rocket: Future goals: **Become an expert in Go**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LucasJezap&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
