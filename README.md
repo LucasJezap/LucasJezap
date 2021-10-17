@@ -1,4 +1,3 @@
-<img src="./background.jpeg" align="center" />
 <p align="center">
   <br><br>
   <samp>
