@@ -19,5 +19,6 @@
   * :computer: Position: **Software Developer** 
   * :hourglass: Work experience: **Doing my best since *01.2021***
   * :rocket: Future goals: **Become an expert in Go**
+  * :alien: Fun fact: I love playing **football**, solving **logic games** and **quizzes** and **computer games**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LucasJezap&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
