@@ -53,8 +53,9 @@
   
 [![Github](https://img.shields.io/github/followers/LucasJezap?label=Follow&style=social)](https://github.com/LucasJezap). 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJezap&langs_count=10&theme=tokyonight). 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJezap&langs_count=10&theme=tokyonight&layout=compact). 
   
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasjezap)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LucasJezap&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
