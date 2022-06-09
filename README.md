@@ -17,7 +17,7 @@
 
 ## 🎓 Facts that might interest you
 
-  * :trophy: Current university status: **Finishing Computer Science Engineer Degree**
+  * :trophy: Current university status: **Finished Computer Science Engineer Degree**
   * :office: I’m currently working at **IBM**
   * :computer: Position: **Software Developer** 
   * :hourglass: Work experience: **Doing my best since *01.2021***
