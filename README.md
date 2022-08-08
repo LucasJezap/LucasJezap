@@ -1,4 +1,4 @@
-[[<p align="center">
+<p align="center">
   <br><br>
   <samp>
     I'm Łukasz Jezapkowicz :wave:
