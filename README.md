@@ -1,4 +1,4 @@
-[<p align="center">
+[[<p align="center">
   <br><br>
   <samp>
     I'm Łukasz Jezapkowicz :wave:
@@ -18,8 +18,8 @@
 ## 🎓 Facts that might interest you
 
   * :trophy: Current university status: **Finished Computer Science Engineer Degree**
-  * :office: I’m currently working at **IBM**
-  * :computer: Position: **Software Developer** 
+  * :office: I’m currently working at **Gamesture**
+  * :computer: Position: **Backend Developer in Go** 
   * :hourglass: Work experience: **Doing my best since *01.2021***
   * :rocket: Future goals: **Become an expert in Go**
   * :alien: Fun fact: I love playing **football**, solving **logic games**, **quizzes** and playing **computer games**
@@ -57,4 +57,5 @@
   
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LucasJezap&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+](https://github.com/LucasJezap/SaboteurCardGameJava)
 ](https://github.com/LucasJezap/SaboteurCardGameJava)
