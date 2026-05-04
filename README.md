@@ -18,7 +18,7 @@
 ## 🎓 Facts that might interest you
 
   * :trophy: Current university status: **Finished Computer Science Engineer Degree**
-  * :office: I’m currently working at **Gamesture**
+  * :office: I’m currently working at **Qlub**
   * :computer: Position: **Backend Developer in Go** 
   * :hourglass: Work experience: **Doing my best since *01.2021***
   * :rocket: Future goals: **Become an expert in Go**
